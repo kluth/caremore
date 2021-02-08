@@ -2,6 +2,7 @@
     "type": "module",
     "dependencies": {
         "@tinyhttp/app": "1.1.12",
-        "@tinyhttp/jwt": "^1.1.1"
+        "@tinyhttp/jwt": "^1.1.1",
+        "@tinyhttp/pug": "^1.1.12"
     }
 }
